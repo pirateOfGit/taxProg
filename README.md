@@ -1,3 +1,3 @@
 # Tax program
 
-Scripts relating totaxcalculation based on deliveroo invoices
+Scripts relating to tax calculation based on deliveroo invoices
